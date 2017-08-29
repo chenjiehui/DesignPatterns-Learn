@@ -1,5 +1,5 @@
 # DesignPatterns-Learn(PHP) 
-
+Learn design patterns by PHP.
 ## 前言
 将学习设计模式的代码整理在这里，关于设计模式详细的总结写在了我的博客上，文章可见以下链接。
 
