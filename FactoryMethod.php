@@ -1,5 +1,8 @@
 <?php
-//工厂方法模式
+/**
+ * 工厂方法模式
+ **/
+
 interface People
 {
     public function say();
