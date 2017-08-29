@@ -1,7 +1,7 @@
 <?php 
 
 /**
- * 抽象工厂方法
+ * 单例模式
  **/
 
  class Preferences 
