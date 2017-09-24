@@ -9,4 +9,5 @@ Learn design patterns in PHP.
 * 3.[工厂方法模式(FactoryMethod)](http://tenpercent.top/2017/07/10/factory-pattern/)
 * 4.[抽象工厂模式(AbstractFactory)](http://tenpercent.top/2017/07/10/factory-pattern/)
 * 5.[装饰器模式(Decorator)](http://tenpercent.top/2017/09/17/Decorator-Pattern/)
+* 6.[外观模式(Facade)](http://tenpercent.top/2017/09/10/Facade-pattern/)
 
